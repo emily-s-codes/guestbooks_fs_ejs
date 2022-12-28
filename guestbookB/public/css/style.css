@@ -1,0 +1,7 @@
+.inputFields {
+    width: 300px;
+}
+
+input[type="textarea"] {
+    resize: vertical;
+}
